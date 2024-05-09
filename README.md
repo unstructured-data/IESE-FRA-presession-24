@@ -1,5 +1,5 @@
 # IESE-FRA-presession-24
-Pre-session materials for the Large Language Models and Machine Learning for Unstructured Data Seminar, organized by IESE and the Fundación Ramón Areces
+Pre-session materials for the [Large Language Models and Machine Learning for Unstructured Data Seminar]([url](https://www.iese.edu/faculty-research/large-language-models-machine-learning/)), organized by IESE and the Fundación Ramón Areces.
 
 ## Python resources:
 
